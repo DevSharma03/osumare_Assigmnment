@@ -1,0 +1,41 @@
+#options{
+    padding: 50px;
+}
+
+.testimonial-image{
+    border: 18px solid #FF3E54;
+    width: 400px !important;
+    height: 400px;
+    text-align: center;
+}
+
+.testimonial-image-content{
+    background-image: url('/public/Assets/Frame-red.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 471px !important;
+    height: 590px;
+    top: 2088px;
+    left: 150px;
+    border-width: 16px;
+}
+
+.testimonial-image-content-text{
+    width: 670px;
+    height: 400px;
+    gap: 40px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: 95px;
+    right: -110px;
+    padding: 30px;
+}
+
+.testimonial-image-content-text p{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    letter-spacing: 0%;
+}
